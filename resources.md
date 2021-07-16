@@ -12,6 +12,7 @@ Resources
 * https://github.com/JohnHammond/ctf-katana
 
 * https://github.com/longld/peda <-- addon for gdb
+
 Cheat sheets
 ------------
 

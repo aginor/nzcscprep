@@ -4,7 +4,8 @@ Resources
 
 * https://docs.pwntools.com/en/latest/
 * https://n00bsec.github.io/update/post/exploitation/2016/11/04/Taking-Over-With-Buffer-Overflows.html
-* https://www.dcode.fr/en
+* https://www.dcode.fr/cipher-identifier
+* https://aperisolve.fr/ <-- start steganography here
 * https://cryptii.com/
 * https://github.com/apsdehal/awesome-ctf
 * https://github.com/radareorg/radare2

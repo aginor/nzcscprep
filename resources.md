@@ -14,6 +14,8 @@ Resources
 
 * https://github.com/longld/peda <-- addon for gdb
 
+* https://inventory.rawsec.ml/overview.html <-- for finding tools
+
 Cheat sheets
 ------------
 
